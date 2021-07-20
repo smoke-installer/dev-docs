@@ -2,13 +2,14 @@
 
 1. Send an Email
 
-	Email one of the emails in ``CONTACT`` explaining what your game is like, what operating systems it'll support and what architectures it'll support.
+	Email one of the email addresses in ``CONTACT`` explaining what your game is like
 
 2. Wait
 
-	If you get a reply (you likely will) it'll give you instructions on what to do next but to save you some time so you don't need to open it, the next step will be explained.
+	If you get a reply (you likely will) it'll give you instructions on what to do next, the next step will be explained.
 
 3. Send another Email
-	You need to prove that you really did make a game (send screenshots some source code) then send the executable[s] named ``arch_os_game`` and by the end of the month your game will be on Smoke Installer
-after it updates.
 
+	Send the source code of your game, read 
+   [build_sh.md](https://github.com/smoke-installer/dev-docs/blob/main/developing/build_sh.md) which is a big part of 
+   setting up your game on other people's computers

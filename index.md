@@ -1,5 +1,7 @@
 # Index
 
+``developing/build_sh.md`` - Your game's build script
+
 ``developing/publishing.md`` - Publishing a game to Smoke Installer
 
 ``developing/updating.md`` - Updating a game you published
